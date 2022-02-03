@@ -7,6 +7,6 @@ o preço da alcool com o preço do gasolina
 se for >= 0.7 Melhor utilizar Gasolina 
 senão ficar no alcool..
 
-Preojeto serviu para colocar em prática os conhecimento na linguagem javascript.
-e conhecimentos com frod-end
+Preojeto serviu para colocar em prática os conhecimentos na linguagem de programação JavaScript.
+e conhecimentos no frond-end.
 
